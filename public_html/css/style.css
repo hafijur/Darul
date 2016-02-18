@@ -127,17 +127,17 @@ margin-top: 10px;
     border-radius: 10px;
     box-shadow: rgba(110,110,110, .6) 10px 10px 45px;
 }
-.notice{
+.level{
 background-color: rgb(221, 221, 221);
 border: 1px solid rgb(11, 11, 80);
-margin-left: 121px;
-margin-right: 121px;  
+/*margin-left: 121px;
+margin-right: 121px;  */
 }
-.notice:hover{
+.result_level:hover{
     cursor:pointer; 
         
 }
-.notice h2{
+.result_level{
 text-align: center;
 color: #0B397D;
 font-size: 38px;
