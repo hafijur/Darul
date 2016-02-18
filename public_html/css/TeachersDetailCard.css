@@ -19,6 +19,9 @@
 .card .card-image {
   position: relative;
   overflow: hidden;
+/*  -ms-transform: rotate(180deg); 
+  transform: rotate(180deg);
+  -webkit-transform:  rotate(180deg);*/
 }
 .card .card-image img {
   border-radius: 2px 2px 0 0;
